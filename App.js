@@ -28,8 +28,6 @@ function App() {
       {/* <Ex01 />
       <Ex02 /> */}
       <HomePage />
-      <Header />
-      fhtrjhtr
     </div>
   );
 }
